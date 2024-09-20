@@ -11,13 +11,27 @@ By using Mobify, users have access to detailed information about routes and vehi
 ## Features ✨
 Features already available in the software:
 
-**Welcome Screen**: it's possible to view basic information about the application.
+**Welcome screen**: it's possible to view basic information about the application.
+
+**Location Authorization screen**: where it's possible to grant permission for the app to access the user's location.
+
+**Terms of Use and Privacy Policy screen**: where it's possible to read and accept the Terms of Use and Privacy Policy in order to proceed with using the app. 
 
 **Registration screen**: where it's possible to create a new user's registration.
 
 **Login screen**: where it's possible to provide the email and password to access the application.
 
-**Main Screen**: it's possible to view a map with the user's current location
+**Main Screen**: where it's possible to search for your destination, choose it, and view all available routes for your trip. You can select the most convenient transportation option and, with a click, see all the trip details, including the estimated time and arrival time.
+
+**Profile Settings screen**: it's possible to add more information to your account, such as date of birth, gender, pronoun, city, and whether you have any disabilities.
+
+**Emergency Contact screen**: where it's possible to add an emergency contact to facilitate communication in critical situations.
+
+**Emergency Button**: it's possible to quickly call emergency services or your emergency contact by clicking the emergency button, enhancing safety during your travels.
+
+**MobieClub screen**: where it's possible to view the benefits and prices of MobieClub subscriptions, as well as access a FAQ with frequently asked questions about the subscription.
+
+**Logout**: it's possible to log out of the current account, ensuring the security of your personal information by ending the session in the app.
 
 
 <!-- ## Pre Requirements ‼️ -->
