@@ -47,6 +47,7 @@ dependencies:
   flutter_dotenv: ^5.1.0
   flutter_polyline_points: ^2.1.0
   google_places_flutter: ^2.0.9
+  url_launcher: ^6.3.0
 
 dev_dependencies:
   flutter_test:
@@ -80,6 +81,15 @@ flutter:
     - lib/assets/images/destination_marker.png
     - lib/assets/images/user_data_form.png
     - lib/assets/images/contact.png
+    - lib/assets/images/mobieclub.png
+    - lib/assets/images/free.png
+    - lib/assets/images/premium.png
+    - lib/assets/images/premium_student.png
+    - lib/assets/images/unlimited.png
+    - lib/assets/images/network_status.png
+    - lib/assets/images/dots.png
+    - lib/assets/images/end_location.png
+    - lib/assets/images/location_pin.png
     - .env
   fonts:
     - family: Roboto
