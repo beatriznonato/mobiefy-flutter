@@ -1,12 +1,12 @@
-# Mobiefy Flutter 🛵
+# Mobiefy 🛵
 
 ## Challenge Description
 This project is a mobile application developed in Kotlin, aimed at providing a comprehensive solution for urban mobility. The [Mobiefy](https://mobiefy.netlify.app) app integrates multimodal routes, allowing users to combine various modes of transportation available in the cities. Users have the 
 flexibility to adjust their routes according to their mobility needs, including options adapted for individuals with reduced mobility.
 
-Accessibility is a priority for us, and Mobify has been designed to be accessible to everyone. The app includes features that facilitate the daily lives of individuals with reduced mobility, ensuring an inclusive user experience.
+Accessibility is a priority for us, and Mobiefy has been designed to be accessible to everyone. The app includes features that facilitate the daily lives of individuals with reduced mobility, ensuring an inclusive user experience.
 
-By using Mobify, users have access to detailed information about routes and vehicle availability through an intuitive interface. This eliminates the need for multiple apps to plan routes, centralizing all information in a single location.
+By using Mobiefy, users have access to detailed information about routes and vehicle availability through an intuitive interface. This eliminates the need for multiple apps to plan routes, centralizing all information in a single location.
 
 ## Features ✨
 Features already available in the software:
