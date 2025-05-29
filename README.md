@@ -105,7 +105,7 @@ Figma was chosen as the central tool in the challenge due to its real-time colla
 
 ## Fun Facts ⭐
 
-This challenge was developed as part of an orientation program at the [FIAP](https://www.fiap.com.br) in collaboration with [ManageEngine](https://www.manageengine.com).
+This challenge was developed as part of an orientation program at the [FIAP](https://www.fiap.com.br) in collaboration with [ManageEngine](https://www.manageengine.com) and [Microsoft](https://www.microsoft.com/pt-br).
 
 ## License
 MIT © [Beatriz Nonato](https://www.linkedin.com/in/beatriznonato/) 👩🏻‍💻 and [Larissa Soares](https://www.linkedin.com/in/larissacsoares/) 👩🏼‍💻
