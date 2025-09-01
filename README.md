@@ -107,5 +107,12 @@ Figma was chosen as the central tool in the challenge due to its real-time colla
 
 This challenge was developed as part of an orientation program at the [FIAP](https://www.fiap.com.br) in collaboration with [ManageEngine](https://www.manageengine.com) and [Microsoft](https://www.microsoft.com/pt-br).
 
+- 🏆 In **October 2024**, the **Mobiefy** project **won 2nd place at NEXT FIAP 2024**, recognized for its innovative approach to improving urban mobility.
+
+<p align="center">
+  <img src="enterpriseChallenge2024.png" alt="Mobiefy Awarded" width="600" />
+</p>
+
+
 ## License
 MIT © [Beatriz Nonato](https://www.linkedin.com/in/beatriznonato/) 👩🏻‍💻 and [Larissa Soares](https://www.linkedin.com/in/larissacsoares/) 👩🏼‍💻
